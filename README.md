@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="(https://github.com/user-attachments/assets/0340088a-a878-4ef6-bed4-65dca04f8703)" alt="EnkeyAI" height="100%">
+  <img src="https://github.com/user-attachments/assets/5320bc09-3e35-4979-b2ee-f32150c8cbcc" alt="EnkeyAI" height="100%">
 
   <h1>EnkeyAI</h2>
   <h2>The Future of Intelligent Solutions</h2>
